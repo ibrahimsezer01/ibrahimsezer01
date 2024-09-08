@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **projects with Javascript**
 
-- 🌱 I’m currently learning **Node.js || Express || MongoDb**
+- 🌱 I’m currently learning **Node.js || Express || MongoDb || AWS**
 
-- 📫 How to reach me **ibosezerpro@gmail.com**
+- 📫 How to reach me **ibrahimsezer210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
